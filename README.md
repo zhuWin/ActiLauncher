@@ -1,4 +1,5 @@
 # ActiLauncher
+!(http://zw.mingbaitalk.cn/wp-content/uploads/2022/12/Screenshot_2022-12-18-06-13-34-29_b783bf344239542886fee7b48fa4b892.jpg)
 ActiLauncher Android Activity 启动器
 几年前随便瞎写的一个小app，由于突然发现了Quickshortcutmaker这个应用直接搁置了(
 使用android.permission.START_ANY_ACTIVITY权限
